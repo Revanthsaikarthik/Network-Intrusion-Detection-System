@@ -6,6 +6,7 @@ import os
 app = Flask(__name__)
 model = joblib.load('model.pkl')
 
+
 @app.route('/')
 def home():
     return render_template('index.html')
