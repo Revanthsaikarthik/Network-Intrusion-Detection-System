@@ -27,6 +27,7 @@ Achieving **98%+ detection rate** while keeping false alarm rates minimal — a 
 ## 🎯 Business & Security Impact
 
 | Stakeholder | Value Delivered |
+
 |-------------|----------------|
 | **Security Operations (SOC)** | Real-time automated triage of network alerts |
 | **IT Administrators** | Instantly identify attack type without manual log analysis |
